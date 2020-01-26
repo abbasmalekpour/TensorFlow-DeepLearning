@@ -18,7 +18,7 @@ Original author is [Abbas Malekpour]
 2. Convolutional Neural Network
 ([Notebook](https://github.com/abbasmalekpour/TensorFlow-DeepLearning/blob/master/02_Convolutional_Neural_Network.ipynb))
 
-3. ~~Pretty Tensor~~
+3. Pretty Tensor
 ([Notebook](https://github.com/abbasmalekpour/TensorFlow-DeepLearning/blob/master/03_PrettyTensor.ipynb))
 
 3-B. Layers API
@@ -111,9 +111,6 @@ You can help by translating the remaining tutorials or reviewing the ones that h
 
 It is a very big job to translate all the tutorials, so you should just start with Tutorials #01, #02 and #03-C which are the most important for beginners.
 
-### New Videos
-
-You are also very welcome to record your own YouTube videos in other languages. It is strongly recommended that you get a decent microphone because good sound quality is very important. I used `vokoscreen` for recording the videos and the free [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) for editing the videos.
 
 ## Forks
 
