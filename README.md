@@ -99,18 +99,6 @@ Some of the Notebooks are therefore also obsolete and they are clearly
 marked at the top of each Notebook. It is recommended that you
 instead use the Keras API for creating Neural Networks in TensorFlow.
 
-## Translations
-
-These tutorials have been translated to the following languages:
-
-* [Chinese](https://github.com/abbasmalekpour/TensorFlow-DeepLearning-Chinese)
-
-### New Translations
-
-You can help by translating the remaining tutorials or reviewing the ones that have already been translated. You can also help by translating to other languages.
-
-It is a very big job to translate all the tutorials, so you should just start with Tutorials #01, #02 and #03-C which are the most important for beginners.
-
 
 ## Forks
 
